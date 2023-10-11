@@ -1,0 +1,23 @@
+Function:
+- function is a block of code which we are using to perform some particular tasks
+- in JS we are able to re use the function details
+- called as reusuable function block 
+
+syntax:
+    function name(){
+
+    }
+    name()
+
+what is Parameter?
+    after providing a name for function inside the () what all the variables we called is the function Parameter
+
+what is Arguments?
+    while calling the function based on para..
+
+Return :
+     when Return is used the execution of the function is stopped
+
+anonymious :
+    function without function name
+    
